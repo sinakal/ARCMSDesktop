@@ -1,0 +1,13 @@
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\bin\Debug\ARCMSDesktop.exe
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\bin\Debug\ARCMSDesktop.pdb
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ARCMSDesktop.AddNewPOI.resources
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ARCMSDesktop.Login.resources
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ARCMSDesktop.MainMenu.resources
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ARCMSDesktop.Properties.Resources.resources
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ARCMSDesktop.exe
+C:\Users\owner\documents\visual studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ARCMSDesktop.pdb
+C:\Users\owner\Documents\Visual Studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ARCMSDesktop.ManageUserSessions.resources
+C:\Users\owner\Documents\Visual Studio 2010\Projects\ARCMSDesktop\ARCMSDesktop\obj\x86\Debug\ARCMSDesktop.Users.resources

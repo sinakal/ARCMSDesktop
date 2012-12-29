@@ -1,0 +1,39 @@
+--Create Database named ARCMS
+
+CREATE DATABASE [ARCMS] ON  PRIMARY 
+( NAME = N'ARCMS', FILENAME = N'C:\ARCMS DB\ARCMS.mdf' , SIZE = 2048KB , MAXSIZE = UNLIMITED, FILEGROWTH = 1024KB )
+ LOG ON 
+( NAME = N'ARCMS_log', FILENAME = N'C:\ARCMS DB\ARCMS_log.ldf' , SIZE = 1024KB , MAXSIZE = 2048GB , FILEGROWTH = 10%)
+GO
+
+--Create Table Named 
+
+CREATE TABLE [dbo].[MsPointOfInterest](
+	[IDPOI] [varchar](10) NOT NULL,
+	[NamaTempat] [varchar](100) NOT NULL,
+	[PointX] [float] NULL,
+	[PointY] [float] NULL,
+ CONSTRAINT [PK_MsPointOfInterest] PRIMARY KEY CLUSTERED 
+(
+	[IDPOI] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+-- Create Table Named MsUser
+
+
+CREATE TABLE [dbo].[MsUser](
+	[Username] [varchar](10) NOT NULL,
+	[Password] [varchar](20) NOT NULL,
+	[Name] [varchar](20) NOT NULL,
+	[Flag_Login] [int] NULL,
+	[Admin] [int] NULL,
+ CONSTRAINT [PK_MsUser] PRIMARY KEY CLUSTERED 
+(
+	[Username] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
